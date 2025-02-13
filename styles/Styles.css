@@ -68,51 +68,56 @@ body::after {
     background: url('../assets/sao-francisco-de-assis.jpg') no-repeat;
     background-position: center;
     background-size: cover;
-    transform: rotate(45deg);
+    transform: rotate(40deg);
 }
 
 .three {
     background: url('../assets/mary.jpg') no-repeat;
     background-position: center;
     background-size: cover;
-    transform: rotate(90deg);
+    transform: rotate(80deg);
 }
 
 .four {
     background: url('../assets/rita-de-cassia.jpg') no-repeat;
     background-position: center;
     background-size: cover;
-    transform: rotate(135deg);
+    transform: rotate(120deg);
 }
 
 .five {
     background: url('../assets/sao-francisco-de-assis.jpg') no-repeat;
     background-position: center;
     background-size: cover;
-    transform: rotate(180deg);
+    transform: rotate(160deg);
 }
 
 .six {
     background: url('../assets/mary.jpg') no-repeat;
     background-position: center;
     background-size: cover;
-    transform: rotate(225deg);
+    transform: rotate(200deg);
 }
 
 .seven {
     background: url('../assets/rita-de-cassia.jpg') no-repeat;
     background-position: center;
     background-size: cover;
-    transform: rotate(270deg);
+    transform: rotate(240deg);
 }
 
 .eight {
     background: url('../assets/sao-francisco-de-assis.jpg') no-repeat;
     background-position: center;
     background-size: cover;
-    transform: rotate(315deg);
+    transform: rotate(280deg);
 }
-
+.nine {
+    background: url('../assets/mary.jpg') no-repeat;
+    background-position: center;
+    background-size: cover;
+    transform: rotate(320deg);
+}
 .arrow {
     position: absolute;
     top: 15%;
